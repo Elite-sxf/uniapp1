@@ -1,0 +1,1 @@
+<view class="content"><uni-nav-bar vue-id="8dd740cc-1" shadow="{{true}}" title="淘宝商场" bind:__l="__l"></uni-nav-bar><view class="text-area"></view></view>
